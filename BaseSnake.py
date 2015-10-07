@@ -1,3 +1,5 @@
+# MR. CHUAH LOLOLOLOLOL
+
 # These are import statements, just like in Java!
 # They help us so we don't have to rewrite code someone else has already written
 import pygame, sys
